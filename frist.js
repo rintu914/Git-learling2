@@ -8,3 +8,4 @@ const upi="intregate upi also";
 console.log(upi);
 const gitpush="2nd time push";
 console.log(gitpush);
+console.log("bug fixed");
